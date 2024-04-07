@@ -35,7 +35,7 @@ public class Butterfly {
     public static void main(String[] args) {
         int i;
         Scanner sc = new Scanner(System.in);
-        System.out.println("Enter value of i");
+        System.out.println("Enter value of i : ");
         i = sc.nextInt();
         sc.close();
         drawButterflyPattern(i);
