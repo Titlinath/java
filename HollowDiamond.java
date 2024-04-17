@@ -16,7 +16,7 @@ public class HollowDiamond {
                     System.out.print("*");
                 else
                     System.out.print(" ");
-            }
+            } 
             System.out.println();
         }
         m = 1;
