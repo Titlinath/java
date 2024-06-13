@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.*;
 import java.math.*;
 
-public class challenge15_Laticpath {
+public class challenge15_Latticepath {
     // Constants for modular arithmetic
     static final int MOD = 1000000007;
     static final int MAX = 1001; // Because N and M are at most 500, N + M is at most 1000
